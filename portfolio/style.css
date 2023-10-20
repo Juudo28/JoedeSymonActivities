@@ -1,0 +1,36 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: azure;
+    color: black;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url("https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg");
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background-color: azure;
+    color: #333;
+}
+
+#projects {
+    padding: 50px;
+    border-style: double
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
